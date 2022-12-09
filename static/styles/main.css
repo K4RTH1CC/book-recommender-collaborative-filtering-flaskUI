@@ -1,0 +1,11 @@
+body {
+    color: white;
+    background-color: black;
+}
+.text-box {
+    height: 10%;
+    width: 60%;
+}
+table {
+    width: 90%;
+}
